@@ -1,0 +1,13 @@
+:root {
+    --primary-color: #4caf50; /* Green for buttons */
+    --background-gradient: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+    --card-color: rgba(255, 255, 255, 0.1);
+    --text-color: #ffffff;
+    --input-color: rgba(255, 255, 255, 0.15);
+    --highlight-color: rgba(76, 175, 80, 0.8); /* Highlight for hover */
+    --danger-color: rgba(244, 67, 54, 0.8);
+  }
+
+.app{
+    background-color: var(--background-gradient);
+}
